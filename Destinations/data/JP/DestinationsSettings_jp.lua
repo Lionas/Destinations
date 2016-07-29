@@ -1,4 +1,4 @@
--------------------------------------------
+﻿-------------------------------------------
 -- English localization for Destinations --
 -------------------------------------------
 do
@@ -100,20 +100,18 @@ do
 	Add("DEST_SETTINGS_ACH_PIN_STYLE",						"アチーブメントのピンのスタイル")
 	Add("DEST_SETTINGS_ACH_PIN_SIZE",						"アチーブメントのピンのサイズ")
 
--- Undone translation
-
-	Add("DEST_SETTINGS_ACH_OTHER_HEADER",					"'Lightbringer', 'Give to the Poor' and 'Crime Pays'")
-	Add("DEST_SETTINGS_ACH_MAIQ_HEADER",					"'I Like M'aiq'")
-	Add("DEST_SETTINGS_ACH_PEACEMAKER_HEADER",				"'Peacemaker'")
-	Add("DEST_SETTINGS_ACH_NOSEDIVER_HEADER",				"'Nose Diver'")
-	Add("DEST_SETTINGS_ACH_EARTHLYPOS_HEADER",				"'Earthly Possessions'")
-	Add("DEST_SETTINGS_ACH_ON_ME_HEADER",					"'This One's on Me'")
-	Add("DEST_SETTINGS_ACH_BRAWL_HEADER",					"'One Last Brawl'")
-	Add("DEST_SETTINGS_ACH_PATRON_HEADER",					"'Orsinium Patron'")
-	Add("DEST_SETTINGS_ACH_WROTHGAR_JUMPER_HEADER",			"'Wrothgar Cliff Jumper'")
-	Add("DEST_SETTINGS_ACH_RELIC_HUNTER_HEADER",			"'Wrothgar Master Relic Hunter'")
-	Add("DEST_SETTINGS_ACH_BREAKING_HEADER",				"'Breaking and Entering'")
-	Add("DEST_SETTINGS_ACH_CUTPURSE_HEADER",				"'A Cutpurse Above'")
+	Add("DEST_SETTINGS_ACH_OTHER_HEADER",					"'光をもたらす者'と'貧しい者に恵みを'と'犯罪は報われる'")
+	Add("DEST_SETTINGS_ACH_MAIQ_HEADER",					"'ムアイクが好き'")
+	Add("DEST_SETTINGS_ACH_PEACEMAKER_HEADER",				"'ピースメーカー'")
+	Add("DEST_SETTINGS_ACH_NOSEDIVER_HEADER",				"'ノーズダイバー'")
+	Add("DEST_SETTINGS_ACH_EARTHLYPOS_HEADER",				"'地上の所有'")
+	Add("DEST_SETTINGS_ACH_ON_ME_HEADER",					"'これはおごりだ'")
+	Add("DEST_SETTINGS_ACH_BRAWL_HEADER",					"'最後の乱闘'")
+	Add("DEST_SETTINGS_ACH_PATRON_HEADER",					"'オルシニウムの後援者'")
+	Add("DEST_SETTINGS_ACH_WROTHGAR_JUMPER_HEADER",			"'ロスガーの崖から飛び降りし者'")
+	Add("DEST_SETTINGS_ACH_RELIC_HUNTER_HEADER",			"'ロスガーの達人遺物ハンター'")
+	Add("DEST_SETTINGS_ACH_BREAKING_HEADER",				"'鍵開けと侵入'")
+	Add("DEST_SETTINGS_ACH_CUTPURSE_HEADER",				"'上級スリ師'")
 
 	Add("DEST_SETTINGS_ACH_CHAMPION_PIN_HEADER",			"ダンジョンのチャンピオン")
 	Add("DEST_SETTINGS_ACH_CHAMPION_ZONE_PIN_TOGGLE",		"ゾーン地図を表示する")
@@ -195,7 +193,7 @@ do
 	Add("DEST_SETTINGS_QUEST_UNDONE_HEADER",				"未完了のクエスト")
 	Add("DEST_SETTINGS_QUEST_INPROGRESS_HEADER",			"進行中のクエスト")
 	Add("DEST_SETTINGS_QUEST_DONE_HEADER",					"完了したクエスト")
-	Add("DEST_SETTINGS_QUEST_CADWELLS_HEADER",				"キャドウェルの暦")
+	Add("DEST_SETTINGS_QUEST_CADWELLS_HEADER",				"キャドウェルの年鑑")
 	Add("DEST_SETTINGS_QUEST_DAILIES_HEADER",				"デイリー/繰り返し可能")
 	Add("DEST_SETTINGS_QUEST_COMPASS_HEADER",				"いろいろ")
 	Add("DEST_SETTINGS_QUEST_REGISTER_HEADER",				"他")
@@ -226,10 +224,10 @@ do
 	Add("DEST_SETTINGS_QUEST_DONE_PIN_COLOR_TT",			"完了したクエストのピンの色を設定する")
 	Add("DEST_SETTINGS_QUEST_DONE_PINTEXT_COLOR",			"完了したクエストのテキストの色")
 	Add("DEST_SETTINGS_QUEST_DONE_PINTEXT_COLOR_TT",		"完了したクエストのピンのテキストの色を設定する")
-	Add("DEST_SETTINGS_QUEST_CADWELLS_PIN_TOGGLE",			"キャドウェルの暦を表示する")
-	Add("DEST_SETTINGS_QUEST_CADWELLS_PIN_TOGGLE_TT",		"クエストのキャドウェルの暦の印を表示する/隠す")
+	Add("DEST_SETTINGS_QUEST_CADWELLS_PIN_TOGGLE",			"キャドウェルの年鑑を表示する")
+	Add("DEST_SETTINGS_QUEST_CADWELLS_PIN_TOGGLE_TT",		"クエストのキャドウェルの年鑑の印を表示する/隠す")
 	Add("DEST_SETTINGS_QUEST_CADWELLS_ONLY_PIN_TOGGLE",		"その他のクエストを隠す")
-	Add("DEST_SETTINGS_QUEST_CADWELLS_ONLY_PIN_TOGGLE_TT",	"キャドウェルの暦に含まれない一般のクエストを表示する/隠す")
+	Add("DEST_SETTINGS_QUEST_CADWELLS_ONLY_PIN_TOGGLE_TT",	"キャドウェルの年鑑に含まれない一般のクエストを表示する/隠す")
 	Add("DEST_SETTINGS_QUEST_WRITS_PIN_TOGGLE",				"令状を表示する")
 	Add("DEST_SETTINGS_QUEST_WRITS_PIN_TOGGLE_TT",			"令状を表示する/隠す")
 	Add("DEST_SETTINGS_QUEST_DAILIES_PIN_TOGGLE",			"デイリークエストを表示する")
@@ -367,8 +365,8 @@ do
 	Add("POITYPE_VAULT",									"地下室")
 	Add("POITYPE_DARK_BROTHERHOOD",							"闇の一党")
 	
-	Add("POITYPE_BREAKING_ENTERING",						"Breaking and Entering") -- Undone translation
-	Add("POITYPE_CUTPURSE_ABOVE",							"A Cutpurse Above") -- Undone translation
+	Add("POITYPE_BREAKING_ENTERING",						"鍵開けと侵入")
+	Add("POITYPE_CUTPURSE_ABOVE",							"上級スリ師")
 
 	Add("POITYPE_MAIQ",										zo_strformat(GetAchievementInfo(872)))
 	Add("POITYPE_LB_GTTP_CP",								zo_strformat(GetAchievementInfo(873)) .. "/" .. zo_strformat(GetAchievementInfo(871)) .. "/" .. zo_strformat(GetAchievementInfo(869)))
