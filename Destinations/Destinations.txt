@@ -1,6 +1,6 @@
 ﻿## Title: |cFFFFFFDestinations|r
 ## Description: This addon adds various points of interest to your maps and compass.
-## Version: 2.0.30r1
+## Version: 2.0.30r2
 ## Author: |c990000Snowman|r|cFFFFFFDK|r (JP Translator: Lionas & 2ch)
 ## APIVersion: 100015 100016
 ## SavedVariables: Destinations_Settings
