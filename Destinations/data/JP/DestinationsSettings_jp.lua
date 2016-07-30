@@ -54,7 +54,7 @@ do
 	Add("DEST_FILTER_WEREWOLF_SHRINE",						"(Dest) ウェアウルフの聖堂")
 
 	--Settings Menu
-	Add("DEST_SETTINGS_TITLE",								"Destinations (JP) [by Lionas&2ch]")
+	Add("DEST_SETTINGS_TITLE",								"Destinations (JP)")
 
 	Add("DEST_SETTINGS_USE_ACCOUNTWIDE",					"アカウント共通の設定を使用する")
 	Add("DEST_SETTINGS_USE_ACCOUNTWIDE_TT",					"オンにすると全てのキャラクターで同じ設定になります")
